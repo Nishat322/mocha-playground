@@ -1,6 +1,6 @@
 /* eslint-disable indent */
 'use strict';
-const divide = require('../index');
+const divide = require('../functions/divide');
 const chai = require('chai');
 const expect = chai.expect;
 // const expect = require('chai').expect; (combine the two statements)
